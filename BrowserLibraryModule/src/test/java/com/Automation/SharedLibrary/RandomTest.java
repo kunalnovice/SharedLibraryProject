@@ -14,7 +14,7 @@ public class RandomTest
 //PropertyReader testConfig = PropertyReader.getTestConfigInstance();
     @Test
     public void TestMethod() {
-System.out.println("User Dir is"+System.getProperty(" user.dir"));
+System.out.println("User Dir is"+System.getProperty("user.dir"));
      //   System.out.println (testConfig.readProperty("DEVICE"));
     //    driver.get("https://www.google.co.uk");
     }

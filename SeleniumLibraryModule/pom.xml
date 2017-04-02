@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
 
     <name>SeleniumLibrary</name>
-    <url>http://maven.apache.org</url>
+
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -31,5 +31,6 @@
             <artifactId>BrowserLibrary</artifactId>
             <version>${BrowserLibrary.Version}</version>
         </dependency>
+
     </dependencies>
 </project>

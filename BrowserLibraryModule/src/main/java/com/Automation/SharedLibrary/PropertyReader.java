@@ -73,7 +73,7 @@ public class PropertyReader {
                 log.log_library_error("     in LoadProperties- Exception");
             e.printStackTrace();
         }
-                log.log_library_track("in PropertyReader-LoadProperties- Finish");
+                log.log_library_track(" in PropertyReader-LoadProperties- Finish");
 
     }
 
